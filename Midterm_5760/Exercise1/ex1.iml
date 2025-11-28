@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class SumEvenNumbers {
+public static void main(String[] args) {
+Scanner input = new Scanner(System.in);
+
+System.out.print("Enter a positive number: ");
+int n = input.nextInt();
+
+// procc
+int sum = 0;
+StringBuilder evenNumbers = new StringBuilder();
+
+for (int i = 1; i <= n; i++) {
+if (i % 2 == 0) {
+sum += i;
+evenNumbers.append(i).append(" ");
+}
+}
+
+System.out.println("The sum of even numbers up to " + n + " is " + sum + ". (" + evenNumbers.toString().trim() + ")");
+}
+}
