@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/final ex.iml" filepath="$PROJECT_DIR$/final ex.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Anja_Ivanovska_5760.iml" filepath="$PROJECT_DIR$/.idea/Anja_Ivanovska_5760.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm_5760/Ex 3/Ex 3.iml" filepath="$PROJECT_DIR$/Midterm_5760/Ex 3/Ex 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_Weather4/Ex_Weather4.iml" filepath="$PROJECT_DIR$/Ex_Weather4/Ex_Weather4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture2/Exercise1_MagicCalc/Exercise1_MagicCalc.iml" filepath="$PROJECT_DIR$/Lecture2/Exercise1_MagicCalc/Exercise1_MagicCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm_5760/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Midterm_5760/Exercise2/Exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_3/Exercise_3.iml" filepath="$PROJECT_DIR$/Exercise_3/Exercise_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture2/Lecture2.iml" filepath="$PROJECT_DIR$/Lecture2/Lecture2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture_3/Lecture_3.iml" filepath="$PROJECT_DIR$/Lecture_3/Lecture_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm_5760/Midterm_5760.iml" filepath="$PROJECT_DIR$/Midterm_5760/Midterm_5760.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ev -2/ev -2.iml" filepath="$PROJECT_DIR$/ev -2/ev -2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/out/ex 31/ex 31.iml" filepath="$PROJECT_DIR$/out/ex 31/ex 31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Midterm_5760/Exercise1/ex1.iml" filepath="$PROJECT_DIR$/Midterm_5760/Exercise1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ev -2/ex33/ex33.iml" filepath="$PROJECT_DIR$/ev -2/ex33/ex33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_4/ex_4.iml" filepath="$PROJECT_DIR$/ex_4/ex_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exe12/exe12.iml" filepath="$PROJECT_DIR$/exe12/exe12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/untitled2.iml" filepath="$PROJECT_DIR$/untitled2/untitled2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled3/untitled3.iml" filepath="$PROJECT_DIR$/untitled3/untitled3.iml" />
+>>>>>>> 8689b59edd9c25073ad0b5e99abff277effb732c
     </modules>
   </component>
 </project>
